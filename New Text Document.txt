@@ -1,1 +1,6 @@
+some changes added to the files
+
 yahan index file add like in vs code. yahan files add karke aur dhyaan rhy index ki file lazmi ho
+
+mere pass vs code nahi hai isliye text file se kam karhha hn apne real vs code se index.html file hi bana kar rakhni/edit karni hai
+
